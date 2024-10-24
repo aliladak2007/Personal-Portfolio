@@ -66,15 +66,8 @@ To run the application, you need to have **Java JDK 11** or later and **JavaFX**
 - **Graphing Functions**: Adding a feature to graph functions entered by the user.
 - **Advanced Error Handling**: More detailed error messages and feedback to the user.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 - **Name**: [Your Name]
 - **Contact**: [Your Email]
 
 Feel free to contribute to the project by submitting pull requests or opening issues for any bugs or feature requests!
-
----
-
-This README file should provide comprehensive information about the project, its features, and how to set it up and run it. Let me know if any details need to be adjusted or added!
