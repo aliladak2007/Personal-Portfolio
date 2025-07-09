@@ -1,22 +1,19 @@
-```markdown
 # Personal Portfolio
 
-This repository contains a collection of personal and academic projects I’ve worked on as a Computer Science student. Each folder in this repo represents a standalone project or tool, developed to build and showcase my skills across various technologies and domains.
+This repository contains a collection of personal and academic projects I've worked on as a Computer Science student. Each folder in this repo represents a standalone project or tool, developed to build and showcase my skills across various technologies and domains.
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-
 Personal-Portfolio/
-├── CS50\_Mortgage\_Calculator
+├── CS50_Mortgage_Calculator
 ├── CalculatorApp
 ├── PropositionalLogic
-├── Sentiment\_Analyser
-├── Stock\_EDA
+├── Sentiment_Analyser
+├── Stock_EDA
 └── README.md
-
 ```
 
 Each project includes its own documentation, source code, and setup instructions inside its respective folder.
@@ -41,11 +38,10 @@ Varies per project. Includes:
 
 ## 📌 Purpose
 
-This repo serves as a central place to document and track my programming journey and growth. It’s also used to demonstrate my development experience in my CV, applications, and online portfolio.
+This repo serves as a central place to document and track my programming journey and growth. It's also used to demonstrate my development experience in my CV, applications, and online portfolio.
 
 ---
 
 ## 📬 Contact
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or email me at ali.ladak2007@gmail.com
-```
